@@ -1,5 +1,4 @@
   ---
-  id: home
   title: Home
   pagination_next: null
   pagination_prev: null
