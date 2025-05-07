@@ -1,8 +1,5 @@
   ---
-  title: Home
-  sidebar_position: 0
-  pagination_next: null
-  pagination_prev: null
+  title: Hello World
   ---
   
   # Welcome to the Brain Wave Collective!
