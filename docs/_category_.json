@@ -1,0 +1,9 @@
+{
+  "label": "Become a Member",
+  "position": 0,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}
