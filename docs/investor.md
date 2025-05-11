@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Investor Members provide capital contributions to support Cooperative growth while maintaining rights to financial returns and governance participation.
 
-**Note:** You must first be a [Community Member](./community) before applying to become an Investor Member.
+**Note:** You must first be a [Community Member](/docs/community.md) before applying to become an Investor Member.
 
 ## Value Exchange
 Investor Members provide financial capital in exchange for potential returns and participation in governance according to their investment agreements.

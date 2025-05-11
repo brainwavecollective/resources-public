@@ -9,15 +9,15 @@ Welcome to the Brain Wave Collective! We offer multiple membership paths designe
 [Join the Brain Wave Collective →](https://brainwavecollective.ai/join)
 ---
 ## Our Membership Structure
-### [Community Member](./community)
+### [Community Member](./community.md)
 **Basic Access**  
 Strengthen the backbone of the collective and engage with our community through knowledge-sharing, networking, and other member-exclusive opportunities.
 
-### [Contributing Member](./contributing) 
+### [Contributing Member](./contributor.md) 
 **Core Participation**  
 Apply your capabilities to power the collective's innovation engine. Secure exclusive resources, enable breakthrough opportunities, and earn enhanced patronage returns.
 
-### [Investor Member](./investor)
+### [Investor Member](./investor.md)
 **Capital Enablement**  
 Provide financial investment to fuel cooperative growth while gaining privileged early access to emerging projects, rights to returns, and strategic participation.
 ---

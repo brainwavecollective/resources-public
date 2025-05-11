@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Community Membership
 
-Community Members form the foundation of the Brain Wave Collective's ecosystem, enabling participants to engage with our community while maintaining complete independence.
+Community Members form the foundation of the Brain Wave Collective's ecosystem, enabling participants to engage with our community while maintaining full independence.
 
 ## Value Exchange
 Community Members gain access to knowledge and networking opportunities in exchange for basic participation and support of the Cooperative's mission.
