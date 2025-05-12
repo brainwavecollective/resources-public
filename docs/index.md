@@ -5,29 +5,66 @@ pagination_next: null
 pagination_prev: null
 ---
 
-# Membership at Brain Wave Collective
-Welcome to the Brain Wave Collective! We offer multiple membership paths for your preferred level of involvement, each with distinct benefits and responsibilities.
-[Join the Brain Wave Collective →](https://brainwavecollective.ai/join)
+# Welcome to the Brain Wave Collective
+
+We offer multiple membership paths to match your level of involvement—each with distinct benefits and responsibilities.
 
 ---
 
-## Our Membership Structure
-### [Community Member](public/community.md)
+## Membership Types
+
+### Community Member
+
 **Basic Access**  
-Strengthen the backbone of the collective and engage with our community through knowledge-sharing, networking, and other member-exclusive opportunities.
 
-### [Contributing Member](public/contributor.md) 
-**Core Participation**  
-Apply your capabilities to power the collective's innovation engine. Secure exclusive resources, enable breakthrough opportunities, and earn enhanced patronage returns.  
+As a Community Member, you form the foundation of the Brain Wave Collective. You can engage with the ecosystem while maintaining full independence. In return for participating and supporting our mission, you gain access to:
+- Designated events and community gatherings  
+- Shared resources  
+- Information exchange and networking  
+- Voting on select community matters
 
-### [Investor Member](public/investor.md)  
-**Capital Enablement**  
-Provide financial investment to fuel cooperative growth while gaining privileged early access to emerging projects, rights to returns, and strategic participation.
+[Join the Brain Wave Collective](https://brainwavecollective.ai/join)  
+→ Access events, resources, and become part of our growing community.
 
 ---
 
-*All members must be at least community members. Members may hold multiple classifications simultaneously (e.g., both Contributor and Investor).*
+### Contributing Member
 
-Our membership framework embodies our core values of collaboration, shared resources, democratic control, and innovation acceleration—creating an ecosystem where individual independence and collective progress thrive together.
+**Core Participation**  
 
-[Join the Brain Wave Collective →](https://brainwavecollective.ai/join)
+As a Contributing Member, you help drive collective value creation by offering your expertise, time, and sustained contributions. In return, you gain deeper access to Cooperative resources and expanded rights defined by contributor agreements, including:
+- All Community Member rights  
+- Access to collective resources  
+- Participation in collaborative projects  
+- Expanded voting power  
+- Enhanced patronage allocation  
+
+[Join the Brain Wave Collective](https://brainwavecollective.ai/join)  
+→ Indicate interest in contributing during sign-up.
+
+---
+
+### Investor Member
+
+**Capital Enablement**  
+
+As an Investor Member, you help support the Cooperative’s long-term growth by providing financial capital. In return, you gain access to financial returns and structured governance participation as outlined in investment agreements. This includes:
+- All Community Member rights  
+- Access to financial return mechanisms as defined in agreements  
+- Participation in Cooperative governance  
+- Access to relevant financial and operational information
+
+[Join the Brain Wave Collective](https://brainwavecollective.ai/join)  
+→ Indicate interest in investing during sign-up.
+
+---
+
+## Membership Principles
+
+Our membership framework reflects our values: collaboration, shared resources, democratic control, and innovation acceleration. We’re building an ecosystem for the future—where your independence and our collective progress go hand in hand.
+
+*All members are Community Members at minimum.  
+You may elect to join additional classes (e.g., Contributor or Investor), each offering unique commitments, benefits, and responsibilities.*
+
+**Ready to build with us?**  
+**[Join the Brain Wave Collective.](https://brainwavecollective.ai/join)**
