@@ -63,8 +63,8 @@ As an Investor Member, you help support the Cooperative’s long-term growth by 
 
 Our membership framework reflects our values: collaboration, shared resources, democratic control, and innovation acceleration. We’re building an ecosystem for the future—where your independence and our collective progress go hand in hand.
 
-*All members are Community Members at minimum.  
-You may elect to join additional classes (e.g., Contributor or Investor), each offering unique commitments, benefits, and responsibilities.*
+*All members are at a minimum Community Members. You may elect to join one or more additional classes (e.g., Contributor or Investor), each offering unique commitments, benefits, and responsibilities.*
 
 **Ready to build with us?**  
+
 **[Join the Brain Wave Collective.](https://brainwavecollective.ai/join)**
