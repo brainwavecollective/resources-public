@@ -23,7 +23,7 @@ As a Community Member you form the foundation of the Brain Wave Collective. You 
 - Information exchange and networking  
 - Voting on select community matters
 
-[Join the Brain Wave Collective](https://brainwavecollective.ai/join)  
+[Join the Brain Wave Collective](https://buy.stripe.com/bIY7uM5w72WJ7oQ288)  
 → Access events, resources, and become part of our growing community.
 
 ---
