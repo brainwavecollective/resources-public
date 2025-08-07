@@ -23,38 +23,38 @@ As a Community Member you form the foundation of the Brain Wave Collective. You 
 - Information exchange and networking  
 - Voting on select community matters
 
-[Join the Brain Wave Collective](https://buy.stripe.com/bIY7uM5w72WJ7oQ288)  
+[Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
 → Access events, resources, and become part of our growing community.
 
 ---
 
-### Contributing Member
+### Contributing Member - Talent
 
 **Core Participation**  
 
-As a Contributing Member, you help drive collective value creation by offering your expertise, talent, and sustained contributions. In return, you gain deeper access to Cooperative resources and expanded rights defined by contributor agreements, including:
+As a member directly contributing your talent you become an invention catalyst who helps drive collective value creation. Whether you're a builder, inventor, or expert contributor, your sustained efforts create value for the collective. In return, you gain deeper access to Cooperative resources and expanded rights defined by contributor agreements, including:
 - All Community Member rights  
 - Access to collective resources  
 - Participation in collaborative projects  
 - Expanded voting power  
 - Enhanced patronage allocation  
 
-[Join the Brain Wave Collective](https://buy.stripe.com/bIY7uM5w72WJ7oQ288)  
+[Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
 → Indicate interest in contributing during sign-up.
 
 ---
 
-### Investor Member
+### Contributing Member - Capital
 
-**Capital Enablement**  
+**Financial Enablement**  
 
-As an Investor Member, you help support the Cooperative’s long-term growth by providing financial capital. In return, you gain access to financial returns and structured governance participation as outlined in investment agreements. This includes:
+As a strategic partner who helps support the Cooperative's long-term growth through various forms of funding and collaboration. Whether through investment, grants, or partnerships, your support drives breakthrough innovation. In return, you gain access to financial returns, opportunities, and structured governance participation as outlined in contributing agreements. This includes:
 - All Community Member rights  
 - Access to financial return mechanisms as defined in agreements  
 - Participation in Cooperative governance  
 - Access to select financial and operational information
 
-[Join the Brain Wave Collective](https://buy.stripe.com/bIY7uM5w72WJ7oQ288)  
+[Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
 → Indicate interest in investing during sign-up.
 
 ---
