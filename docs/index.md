@@ -63,6 +63,8 @@ As a strategic partner who helps support the Cooperative's long-term growth thro
 
 Our membership framework reflects our values: collaboration, shared resources, democratic control, and innovation acceleration. We’re building an ecosystem for the future—where your independence and our collective progress go hand in hand.
 
+[Read our Code of Conduct](./public/code_of_conduct) to learn more about our community standards.
+
 *All members are at a minimum Community Members. You may elect to join one or more additional classes (e.g., Contributor or Investor), each offering unique commitments, benefits, and responsibilities.*
 
 **Ready to build with us?**  
