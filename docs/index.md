@@ -40,7 +40,7 @@ As a member directly contributing your talent you become an invention catalyst w
 - Enhanced patronage allocation  
 
 [Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
-→ Indicate interest in contributing during sign-up.
+→ Indicate interest in contributing your talents during sign-up.
 
 ---
 
@@ -55,7 +55,7 @@ As a strategic partner who helps support the Cooperative's long-term growth thro
 - Access to select financial and operational information
 
 [Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
-→ Indicate interest in investing during sign-up.
+→ Indicate interest in capital contribution during sign-up.
 
 ---
 
@@ -67,4 +67,4 @@ Our membership framework reflects our values: collaboration, shared resources, d
 
 **Ready to build with us?**  
 
-**[Join the Brain Wave Collective.](https://buy.stripe.com/bIY7uM5w72WJ7oQ288)**
+**[Join the Brain Wave Collective.](https://brainwavecollective.ai/resources/join/)**
