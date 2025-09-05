@@ -1,9 +1,9 @@
 # Community Member Agreement
-*as of August 8th, 2025*
+*as of September 5th, 2025*
 
 ## What You're Joining
 
-Brain Wave Collective LCA is a new approach to innovation and collaboration. As a Community Member, you'll gain access to our network of builders, researchers, and innovators. We are thrilled to have you help shape our evolving policies and structure as we build within the collective and learn more about what works best for our members.
+Brain Wave Collective LCA is a new approach to innovation and collaboration. As a Community Member, you'll gain access to our network of builders, researchers, and innovators. We are thrilled to have you onboard to help shape our evolving policies and structure as we learn what works best for our members and build this collective together.
 
 ## Your Rights as Community Member
 
@@ -52,8 +52,4 @@ Brain Wave Collective LCA is a new approach to innovation and collaboration. As 
 
 ---
 
-By joining as a Community Member, you agree to:
-
-1. The Community Member Agreement, Code of Conduct, and Privacy Policy
-2. That you understand this is an experimental cooperative with evolving policies
-
+By joining as a Community Member, you agree to the Community Member Agreement, Code of Conduct, and Privacy Policy
