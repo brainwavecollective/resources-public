@@ -9,6 +9,14 @@ pagination_prev: null
 
 The collective offers multiple membership paths to match your level of involvement. Each type of membership has distinct benefits and responsibilities.
 
+## Find Your Path
+
+Here is a simple overview to help you understand which membership type best fits your interests:
+
+![Membership Decision Flow](/img/membership-flow.svg)
+
+*Not sure where to start? Explore more below, or [become a community member today](https://brainwavecollective.ai/resources/join/).*
+
 ---
 
 ## Membership Types
@@ -19,7 +27,7 @@ The collective offers multiple membership paths to match your level of involveme
 
 As a Community Member you form the foundation of the Brain Wave Collective. You can engage with the ecosystem while maintaining full independence. In return for participating and supporting our mission, you gain access to:
 - Designated events and community gatherings  
-- Shared resources  
+- Shared community resources  
 - Information exchange and networking  
 - Voting on select community matters
 
@@ -40,7 +48,7 @@ As a member directly contributing your talent you become an invention catalyst w
 - Enhanced patronage allocation  
 
 [Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
-→ Indicate interest in contributing your talents during sign-up.
+→ Indicate interest in contributing talents during sign-up.
 
 ---
 
