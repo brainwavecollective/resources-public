@@ -1,8 +1,8 @@
 ---
 id: other-1125-projects
 title: Other Projects
-sidebar_position: null
 slug: /references/projects/other-1125-projects
+unlisted: true
 ---
 
 # 2025 RMAIIG Robotics Showcase Projects
