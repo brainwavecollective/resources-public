@@ -5,17 +5,10 @@ sidebar_label: LeRobo-Vous (LRV)
 slug: /references/projects/lerobo-vous
 ---
 
-**Summary**  
-LeRobo-Vous is the Robot Rendesvous, a **novel telepresence network** designed to extend **LeRobot** into multi-location, multi-operator scenarios.
+![First Contact](/img/Creacin_de_Adn.png)
 
-**Links**  
-- Telepresence network — [link](#)  
-- LeRobot — [link](#)
+LeRobo-Vous is how robots rendezvous, a **novel robot matching and remote contol telepresence network.** This project by Daniel Ritchie is designed to extend [HuggingFace's LeRobot](https://github.com/huggingface/lerobot?utm_source=brainwavecollective.ai) to be used in multi-location, multi-operator scenarios. 
 
-**Overview**  
-- Capabilities: remote control, session routing, identity/permission model  
-- Use cases: workshops, distributed demos, research collaborations  
-- Related: [RMAIIG Robotics — November 2025](/references/rmaiig-robotics-nov-2025)
+Inspired by hackathon-winning project Robot-Roulette which won top 30 at [HuggingFace's Global AI Robotics Challenge](https://huggingface.co/LeRobot-worldwide-hackathon?utm_source=brainwavecollective.ai) in June 2025.
 
-**Media**  
-- Image: `/img/references/lerobo-vous.jpg`
+The [LRV Open Source Daemon on PyPi](https://pypi.org/project/lrvd/?utm_source=brainwavecollective.ai) installs all necessary local software and the [LRV web interface](http://brainwavecollective.ai/lrv?utm_source=brainwavecollective.ai) is your portal to global interactivity.  
