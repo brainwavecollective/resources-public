@@ -10,57 +10,14 @@ pagination_prev: null
 The collective offers multiple membership paths to match your level of involvement. Each type of membership has distinct benefits and responsibilities.
 
 ## Find Your Path
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'18px'}}}%%
----
-config:
-  layout: dagre
----
-flowchart TD
-    START(["🚀 Join as a Community Member"]) --> Q0{"How would you like to engage?"}
-    Q0 -- Strategic Partnership --> FIN@{ label: "💰 FINANCIAL SUPPORT<br>━━━━━━━━━━━━━━━<br>• Investment<br>• Philanthropy<br>• Direct Member Sponsorship<br>• In-Kind Resources" }
-    Q0 -- Ideas & Skills --> SKILLS["💡 TALENT & EXPERTISE"]
-    Q0 -- Not Sure Yet --> EXPLORE["🔍 Explore Options<br>with the Community"]
-    FIN --> CINV(["✅ Member Type:<br><b>Contributing Investor</b>"])
-    SKILLS --> Q1{"Do you have a specific<br>idea you are working on?"}
-    Q1 --> YES_IDEA["Yes"] & NO_IDEA["No"]
-    YES_IDEA --> Q2{"How do you want to develop your ideas?"}
-    Q2 -- Solo Effort --> INDEP["🏃 Independently<br>Pursue your Project"]
-    Q2 -- Collective Effort --> COLLAB["🤝 Collaborate &<br>Co-create"]
-    INDEP --> CM
-    COLLAB --> CIM(["✅ Member Type:<br><b>Active Contributor</b>"])
-    NO_IDEA --> Q3{"Do you want to actively contribute to the Collective, and benefit from the contributions of others?"}
-    Q3 --> SUPPORT_YES["Yes, contribute reciprocally"] & SUPPORT_NO["No"]
-    SUPPORT_YES --> COLLAB
-    SUPPORT_NO --> CM(["✅ Member Type:<br><b>Community Member</b>"])
-    EXPLORE --> CM
-    FIN@{ shape: rect}
-    classDef startStyle fill:#43A047,stroke:#2E7D32,stroke-width:3px,color:#fff
-    classDef questionStyle fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:#fff
-    classDef optionStyle fill:#E3F2FD,stroke:#1976D2,stroke-width:2px,color:#000
-    classDef investorOutcome fill:#7B1FA2,stroke:#4A148C,stroke-width:3px,color:#fff
-    classDef contributorOutcome fill:#FF6F00,stroke:#E65100,stroke-width:3px,color:#fff
-    classDef communityOutcome fill:#43A047,stroke:#2E7D32,stroke-width:3px,color:#fff
-    START:::startStyle
-    Q0:::questionStyle
-    FIN:::optionStyle
-    SKILLS:::optionStyle
-    CINV:::investorOutcome
-    Q1:::questionStyle
-    YES_IDEA:::optionStyle
-    NO_IDEA:::optionStyle
-    Q2:::questionStyle
-    INDEP:::optionStyle
-    COLLAB:::optionStyle
-    CIM:::contributorOutcome
-    Q3:::questionStyle
-    SUPPORT_YES:::optionStyle
-    SUPPORT_NO:::optionStyle
-    EXPLORE:::optionStyle
-    CM:::communityOutcome
-```
 
-*Not sure where to start? Explore more below...*
+Here is a simple overview to help you understand which membership type best fits your interests:
+
+![Membership Decision Flow](/img/membership-flow.svg)
+
+*Not sure where to start? Explore more below, or [become a community member today](https://brainwavecollective.ai/resources/join/).*
+
+---
 
 ## Membership Types
 
@@ -72,7 +29,7 @@ As a Community Member you form the foundation of the Brain Wave Collective. You 
 - Designated events and community gatherings  
 - Shared community resources  
 - Information exchange and networking  
-- Voting on select community matters
+- Voting on select community matters  
 
 [Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
 → Access events, resources, and become part of our growing community.
@@ -103,7 +60,7 @@ As a strategic partner who helps support the Cooperative's long-term growth thro
 - All Community Member rights  
 - Access to financial return mechanisms as defined in agreements  
 - Participation in Cooperative governance  
-- Access to select financial and operational information
+- Access to select financial and operational information  
 
 [Join the Brain Wave Collective](https://brainwavecollective.ai/resources/join/)  
 → Indicate interest in capital contribution during sign-up.
