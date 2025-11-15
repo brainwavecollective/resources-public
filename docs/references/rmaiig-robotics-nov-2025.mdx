@@ -59,4 +59,15 @@ import Link from '@docusaurus/Link';
       </div>
     </div>
   </Link>
+  
+  <Link to="/docs/references/projects/other-1125-projects" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/rmaiig-robotics-meeting.png').default} alt="LeRobo-Vous" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>Other Projects</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>Info about other presenters</p>
+      </div>
+    </div>
+  </Link>
+  
 </div>
