@@ -5,84 +5,58 @@ sidebar_label: RMAIIG Robotics (Nov 2025)
 slug: /references/rmaiig-robotics-nov-2025
 ---
 
-🖼️ Image placeholders
-Put images at: static/img/references/{reachy-mini.jpg, lerobot.jpg, von-puppenstein.jpg, lerobo-vous.jpg}.
-Replace href="#" with real URLs when you’re ready.
-
-
-
-This page provides additional details on the projects showcased during the **RMAIIG Robotics Meetup**. Click on each project for more information.
-
-> _Note:_ This section is a public reference for select projects and events. It is not a complete archive of all organizational work.
+This page provides quick reference links to projects showcased at our booth during the **[RMAIIG Robotics Meetup](https://linktr.ee/rmaiig?&utm_source=brainwavecollective.ai)** in November 2025. For more information see the page for each project.
 
 import Link from '@docusaurus/Link';
 
-<div className="container margin-top--lg">
-  <div className="row">
-
-    <div className="col col--6 margin-bottom--lg">
-      <div className="card">
-        <div className="card__image">
-          <Link to="./projects/reachy-mini">
-            <img src="/img/references/reachy-mini.jpg" alt="Reachy Mini" loading="lazy" />
-          </Link>
-        </div>
-        <div className="card__body">
-          <h3 className="margin-bottom--xs">
-            <Link to="./projects/reachy-mini">Reachy Mini</Link>
-          </h3>
-          <p>By Pollen Robotics (<a href="#" target="_blank" rel="noopener noreferrer">link</a>).</p>
-        </div>
+<div style={{display: 'flex', flexDirection: 'column', gap: '1.5rem', marginTop: '2rem'}}>
+  <Link to="/docs/references/projects/reachy-mini" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/meet-reachy-mini-square.jpg').default} alt="Reachy Mini" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>Reachy Mini</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>We are beta testing the cutest robot on the planet</p>
       </div>
     </div>
-
-    <div className="col col--6 margin-bottom--lg">
-      <div className="card">
-        <div className="card__image">
-          <Link to="./projects/lerobot">
-            <img src="/img/references/lerobot.jpg" alt="LeRobot" loading="lazy" />
-          </Link>
-        </div>
-        <div className="card__body">
-          <h3 className="margin-bottom--xs">
-            <Link to="./projects/lerobot">LeRobot</Link>
-          </h3>
-          <p>By Hugging Face (<a href="#" target="_blank" rel="noopener noreferrer">link</a>).</p>
-        </div>
+  </Link>
+  
+  <Link to="/docs/references/projects/trash-detector" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/shanjay1.png').default} alt="LeRobot Trash Detector" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>Intelligent Waste Diversion</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>AI-powered trash and recycling sorting with YOLO and SO101 robotic arm</p>
       </div>
     </div>
+  </Link>
 
-    <div className="col col--6 margin-bottom--lg">
-      <div className="card">
-        <div className="card__image">
-          <Link to="./projects/von-puppenstein">
-            <img src="/img/references/von-puppenstein.jpg" alt="Von Puppenstein" loading="lazy" />
-          </Link>
-        </div>
-        <div className="card__body">
-          <h3 className="margin-bottom--xs">
-            <Link to="./projects/von-puppenstein">Von Puppenstein</Link>
-          </h3>
-          <p>Talking robot (<a href="#" target="_blank" rel="noopener noreferrer">link</a>) based on LeRobot (<a href="#" target="_blank" rel="noopener noreferrer">link</a>).</p>
-        </div>
+  <Link to="/docs/references/projects/lerobot" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/lerobot-logo.jpg').default} alt="LeRobot" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>LeRobot</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>Open-source AI/ML robotics platform by Hugging Face</p>
       </div>
     </div>
+  </Link>
 
-    <div className="col col--6 margin-bottom--lg">
-      <div className="card">
-        <div className="card__image">
-          <Link to="./projects/lerobo-vous">
-            <img src="/img/references/lerobo-vous.jpg" alt="LeRobo-Vous" loading="lazy" />
-          </Link>
-        </div>
-        <div className="card__body">
-          <h3 className="margin-bottom--xs">
-            <Link to="./projects/lerobo-vous">LeRobo-Vous</Link>
-          </h3>
-          <p>Novel telepresence network (<a href="#" target="_blank" rel="noopener noreferrer">link</a>) for LeRobot (<a href="#" target="_blank" rel="noopener noreferrer">link</a>).</p>
-        </div>
+  <Link to="/docs/references/projects/von-puppenstein" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/vonpup-square.jpg').default} alt="Von Puppenstein" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>Von Puppenstein</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>Talking robot based on LeRobot</p>
       </div>
     </div>
+  </Link>
 
-  </div>
+  <Link to="/docs/references/projects/lerobo-vous" style={{textDecoration: 'none', color: 'inherit'}}>
+    <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'var(--ifm-color-emphasis-100)', borderRadius: '12px', transition: 'transform 0.2s, box-shadow 0.2s', cursor: 'pointer'}} onMouseEnter={(e) => {e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,0,0,0.1)'}} onMouseLeave={(e) => {e.currentTarget.style.transform = 'translateY(0)'; e.currentTarget.style.boxShadow = 'none'}}>
+      <img src={require('@site/static/img/lrv-global.jpg').default} alt="LeRobo-Vous" style={{width: '120px', height: '120px', objectFit: 'cover', borderRadius: '8px', flexShrink: 0}} />
+      <div style={{flex: 1}}>
+        <h3 style={{margin: 0, marginBottom: '0.5rem', color: 'var(--ifm-link-color)'}}>LeRobo-Vous</h3>
+        <p style={{margin: 0, color: 'var(--ifm-color-emphasis-700)'}}>Novel telepresence network for LeRobot</p>
+      </div>
+    </div>
+  </Link>
 </div>
