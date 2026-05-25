@@ -164,7 +164,6 @@ There have been a number of related updates. Whats new :
 		https://wiki.seeedstudio.com/respeaker_xvf3800_introduction/#install-dfu-util
 
 		- Download [this file](https://dfu-util.sourceforge.net/releases/dfu-util-0.11-binaries.tar.xz) and extract the `win64` folder contents to a new directory.
-			- ![](_assets/dfu-util-0.png)
 			- Use 7-zip or NanaZip to open it. For the rest of this example we'll assume a folder like `C:\reachy-firmware`.
 				- To install NanaZip, you can run `winget install -e --id M2Team.NanaZip`
 				- Within that folder you should now have the following:
