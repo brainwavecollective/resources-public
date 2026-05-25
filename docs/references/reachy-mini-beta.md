@@ -528,12 +528,13 @@ https://github.com/pollen-robotics/reachy_mini/pull/362
 
 
 #### FYI  UDEV RULES (TBD where to place, and which ones are before vs. after)
+```
 SUBSYSTEM=="usb", ATTR{idVendor}=="38fb", ATTR{idProduct}=="1001", MODE="0666", GROUP="plugdev"
 SUBSYSTEM=="tty", ATTRS{idVendor}=="38fb", ATTRS{idProduct}=="1001", MODE="0666", GROUP="dialout" #Reachy Mini soundcard' \
 
 SUBSYSTEM=="usb", ATTR{idVendor}=="2886", ATTR{idProduct}=="001a", MODE="0666", GROUP="plugdev"
 SUBSYSTEM=="tty", ATTRS{idVendor}=="2886", ATTRS{idProduct}=="001a", MODE="0666", GROUP="dialout" #Reachy Mini soundcard' \
-
+```
 
 
 
