@@ -14,13 +14,13 @@ What's working now:
 
 ### FIRST WINDOW (Daemon)
 ```
-cd ~/Sync/GitHub/brainwavecollective/reachy_mini
+cd ~~brainwavecollective/reachy_mini
 git checkout windows
 uv run reachy-mini-daemon
 ```
 ### SECOND WINDOW (App)
 ```
-cd ~/Sync/GitHub/pollen-robotics/reachy_mini_conversation_app
+cd ~~pollen-robotics/reachy_mini_conversation_app
 git checkout local-wip
 #if any updates are necessary... need to run this to ensure latest from above (could be smaller, but it's just a little slower)
 # uv pip install --force-reinstall -e .
@@ -49,7 +49,7 @@ I did encounter an [EHCI controller-specific high-speed USB 2.0 concern which ca
 
 ### Sound Resolution - A note about firmware 
 
-Using arbitrary ${AUDIO_NAME} to arbitrarily identify the name of the device that was changed at firmware version 2.1.3. This is just to make it easier for me to manage docs.
+Using arbitrary `${AUDIO_NAME}` to arbitrarily identify the name of the device that was changed at firmware version 2.1.3. This is just to make it easier for me to manage docs.
 
 ** Firmware 2.1.3 and ABOVE **
 export AUDIO_NAME="Reachy Mini Audio"
@@ -159,7 +159,7 @@ There have been a number of related updates. Whats new :
 	./update.sh reachymini_ua_io16_lin_v2.1.3.bin
 	```
 	
-	WINDOWS ([PwnosaurusRex(]https://discord.com/channels/519098054377340948/1430980007697711296/1441902022403162133))
+	WINDOWS ([PwnosaurusRex](https://discord.com/channels/519098054377340948/1430980007697711296/1441902022403162133))
 	
 		https://wiki.seeedstudio.com/respeaker_xvf3800_introduction/#install-dfu-util
 
@@ -227,8 +227,8 @@ There have been a number of related updates. Whats new :
 
 			For more information (including troubleshooting steps) [see the docs](https://wiki.seeedstudio.com/respeaker_xvf3800_introduction/#update-firmware).
 		
-	ADDITIONAL NOTES
-	
+	ADDITIONAL MISC NOTES
+```	
 		$ ./dfu-util.exe -l
 			dfu-util 0.11
 
@@ -507,7 +507,7 @@ NOTE: ATTRS instead of ATTR for vendor/product ID rules matches the parent USB d
 	TBD - probaby more 
 		
 FYI if you're unsure you can determine the ReSpeaker firmware version with `dfu-util -l`
-
+```
 
 
 #### TBD 2.1.3
@@ -516,16 +516,15 @@ $ python src/reachy_mini/media/audio_control_utils.py REBOOT --values 1
 
 
 ### Sound Resolution - Need to referenced correct version of local install 
-REF: "reachy-mini @ file:///C:/Users/Daniel/Sync/GitHub/brainwavecollective/reachy_mini"
-and then uv pip install . to lock down that local version (with ~/Sync/GitHub/brainwavecollective/reachy_mini (v1.0.0rc4_plus-audio-fix-windows) checked out)
+REF: "reachy-mini @ file:///~~GitHub/brainwavecollective/reachy_mini"
+and then uv pip install . to lock down that local version (with ~~brainwavecollective/reachy_mini (v1.0.0rc4_plus-audio-fix-windows) checked out)
 
 
 	
 	
 ### Sound Resolution - Unable to find reSpeaker, using default device 
-Playback may not work on Windows 
-I found a Windows-specific issue where 
-(https://github.com/pollen-robotics/reachy_mini/pull/362)
+Playback may not work on Windows, issue here:
+https://github.com/pollen-robotics/reachy_mini/pull/362
 
 
 
@@ -588,9 +587,9 @@ You will need to install rustypot with pip install rustypot prior to that !
 
 ## Optimizations 
 
-The default Dynamixel PID settings are overly agressive. It works as-is, but I've come to prefer updated settings. I'm still exploring, but have been fairly content running this [script to set PID values] with `-p 180 and -d 20` for all servos (`--motor-id 10` through `--motor-id 18`).
+The default Dynamixel PID settings are overly agressive. It works as-is, but I've come to prefer updated settings. I'm still exploring, but have been fairly content running `script to set PID values` with `-p 180 and -d 20` for all servos (`--motor-id 10` through `--motor-id 18`).
 
- C:\Users\Daniel\Sync\GitHub\brainwavecollective\reachy_mini\.venv\Lib\site-packages\reachy_mini_motor_controller\assets\config\hardware_config.yaml
+ .venv\Lib\site-packages\reachy_mini_motor_controller\assets\config\hardware_config.yaml
 
 
 ## Miscellaneous
@@ -598,7 +597,6 @@ Exhausted. Half a night on VAD and Whispers failing to filter non-speech.
 (I also improved tool calling and actions - this will “spill” back to the MCP)
 
 SileroVAD for VAD ([thanks @nachos](https://discord.com/channels/519098054377340948/1428484261802934312/1444133897070706779)
-
 
 https://www.youtube.com/watch?v=b0iJZS9HgJA
 
