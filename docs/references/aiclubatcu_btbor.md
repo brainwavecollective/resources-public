@@ -8,7 +8,7 @@ slug: /references/aiclubatcu_btbor
   
 <img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="33%" style={{marginBottom: '24px'}} /> 
   
-***NOTE: If there's anything I missed or more that you are curious about please don't hesitate to [email me](mailto:daniel@brainwavecollective.ai). I am happy to update this page and answer any specific questions.***
+*NOTE: If there's anything I missed or more that you are curious about please don't hesitate to [email me](mailto:daniel@brainwavecollective.ai). I am happy to update this page and answer any specific questions.*
 
 ## Meet Barbara
 
