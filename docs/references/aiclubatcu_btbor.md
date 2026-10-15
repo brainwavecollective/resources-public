@@ -4,7 +4,9 @@ title: Breaking the Barrier of Robotics
 slug: /references/alpha-fold
 ---
 
-<img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="15%" />
+<a href="/resources/img/20261013_aicu_btbor.jfif" target="_blank">
+  <img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="33%" />
+</a>
 
 Thank you all for attending. Here are a few references to things that came up during our discussion. 
 
