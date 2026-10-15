@@ -4,13 +4,13 @@ title: Breaking the Barrier of Robotics
 slug: /references/aiclubatcu_btbor
 ---
 
-***Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.***
+### Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.
   
 <a href="/resources/img/20261013_aicu_btbor.jfif" target="_blank">
   <img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="33%" />
-</a>
+</a>  
   
-NOTE: If there's anything I missed or more that you are curious about please don't hesitate to [email me](mailto:daniel@brainwavecollective.ai). I am happy to update this page and answer any specific questions.
+***NOTE: If there's anything I missed or more that you are curious about please don't hesitate to [email me](mailto:daniel@brainwavecollective.ai). I am happy to update this page and answer any specific questions.***
 
 # Meet Barbara
 
