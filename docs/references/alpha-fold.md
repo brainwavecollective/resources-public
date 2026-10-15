@@ -12,19 +12,12 @@ AlphaFold 2 (AF2) enabled computational predictions for hundreds of millions of 
 
 A relatively small DeepMind team created an AI system that achieved near–experimental accuracy for many proteins and scaled predictions to the entire known protein universe.
 
-
 Generated computationally in weeks, not a century.
 Extremely valuable, but:
 some are high confidence
 many are partial confidence
 some are low confidence
 Predictions still need experimental validation.
-
-
-
-
-
-FINAL?
 
 In 2021, a team of 15 at Google DeepMind stood on 100 years of scientific work, and used AlphaFold 2 to expand humanity’s access to protein structure information by well over ~1000×, going from ~150,000 experimentally solved structures to ~200 million computational predictions.
 
@@ -34,9 +27,7 @@ Check out [Veritasium's incredible explanation for how AlphaFold works](https://
 
 Incredibly, this work is available freely through the [AlphaFold Protien Structure DB](https://alphafold.ebi.ac.uk/) (see: [related paper](https://pubmed.ncbi.nlm.nih.gov/37933859/)) which allows for searching protien, gene, UniProt accession / organism / sequence. 
 
-
-
--------
+---
 
 Building on the earlier work of AF2, [AlphaFold 3](https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules?utm_source=chatgpt.com) improves accuracy and adds capabilities around predicting structures of molecular complexes: proteins interacting with other proteins, nucleic acids (DNA/RNA), small‐molecules/ligands, ions, and modified residues.
 
