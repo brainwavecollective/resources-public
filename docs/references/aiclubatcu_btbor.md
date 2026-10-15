@@ -24,7 +24,7 @@ Given LeRobot's broader focus there are many more options available, including: 
 
 ## Do humans need to do the work? 
 
-In regards to what it takes to bring together the various subsystems I mentioned that Google's new Gemini 4 Argon now has a [robot that trained itself in simulation](https://www.youtube.com/watch?v=9PICEmtfpWU) so we expect the future will be one that doesn't even require us to do the work of staging the training. I also showed a video comparing the progress of Boston Dynamics over the last 7 years. Here is a video showing the [acrobatic capabilities of Atlas](https://www.youtube.com/watch?v=UNorxwlZlFk).
+In regards to what it takes to bring together the various subsystems I mentioned that Google's new Gemini 4 Argon now has a [robot that trained itself in simulation](https://www.youtube.com/watch?v=9PICEmtfpWU) (also MuJoco) so we expect the future will be one that doesn't even require us to do the work of staging the training. I also showed a video comparing the progress of Boston Dynamics over the last 7 years. Here is a video showing the [acrobatic capabilities of Atlas](https://www.youtube.com/watch?v=UNorxwlZlFk).
 
 ## On Risk and Abuse
 
