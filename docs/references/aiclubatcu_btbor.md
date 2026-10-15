@@ -26,6 +26,8 @@ Given LeRobot's broader focus there are many more options available, including: 
 
 In regards to what it takes to bring together the various subsystems I mentioned that Google's new Gemini 4 Argon now has a [robot that trained itself in simulation](https://www.youtube.com/watch?v=9PICEmtfpWU) (also MuJoco) so we expect the future will be one that doesn't even require us to do the work of staging the training. I also showed a video comparing the progress of Boston Dynamics over the last 7 years. Here is a video showing the [acrobatic capabilities of Atlas](https://www.youtube.com/watch?v=UNorxwlZlFk).
 
+I mentioned [VLA planning](https://roboticsfyi.substack.com/p/vision-language-action-explained) as a current approach that makes it easy to orchestrate actions and if you want to go deeper you can explore this [study on heirarchical agents](https://jiahenghu.github.io/hi-vla/) with [related Hi-VLA paper](https://arxiv.org/abs/2606.10267).
+
 ## On Risk and Abuse
 
 The quote that I mentioned came from [On War, by Carl von Clausewitz](https://www.gutenberg.org/files/1946/1946-h/1946-h.htm) (1780–1831) where he says “War therefore is an act of violence intended to compel our opponent to fulfil our will." and that "Violence arms itself with the inventions of Art and Science...”.
