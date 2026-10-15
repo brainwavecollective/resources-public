@@ -4,7 +4,7 @@ title: Breaking the Barrier of Robotics
 slug: /references/alpha-fold
 ---
 
-![October 13th 2026](/img/20261013_aicu_btbor.jfif)
+<img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="15%" />
 
 Thank you all for attending. Here are a few references to things that came up during our discussion. 
 
@@ -12,7 +12,7 @@ NOTE: If there's anything I missed or more that you are curious about please don
 
 # Meet Barbara
 
-What a monster we created. Although <a href="/resources/assets/2026.10.13_barbara_initial.txt" target="_blank">our initial prompt</a> likely would have been plenty to compel the personality, the results of our refinements can be seen in <a href="/resources/assets/2026.10.13_barbara_final.txt" target="_blank">Barbara's Final Prompt</a>). You can reproduce the interactions by copying the prompt to Hugging Face's [realtime voice AI pipeline](https://huggingface.co/spaces/smolagents/hf-realtime-voice) by going to ⚙ Settings and adding the prompt as **instructions** with the voice "Ono_Anna."
+What a monster we created. Although <a href="/resources/assets/2026.10.13_barbara_initial.md" target="_blank">our initial prompt</a> likely would have been plenty to compel the personality, the results of our refinements can be seen in <a href="/resources/assets/2026.10.13_barbara_final.md" target="_blank">Barbara's Final Prompt</a>). You can reproduce the interactions by copying the prompt to Hugging Face's [realtime voice AI pipeline](https://huggingface.co/spaces/smolagents/hf-realtime-voice) by going to ⚙ Settings and adding the prompt as **instructions** with the voice "Ono_Anna."
 
 # Simulation Environments
 
@@ -34,7 +34,7 @@ The application of this to modern computing (and robotics) is referenced by [Gra
 
 # Purchasing Robots 
 
-Although you can [purchase Reachy Mini's directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful available that I would be willing to sell. I have both Wirless and Lite versions. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. Cost will be $50 above what HF charges, but they are already assembled, and you won't have to wait for Hugging Face to ship (currently reports of over 3mos as of time of writing, though they keep promising they will ship sooner).
+Although you can [purchase Reachy Mini directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful available that I would be willing to sell. I have both Wirless and Lite versions. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. Cost will be $50 above what HF charges, but they are already assembled, and you won't have to wait for Hugging Face to ship (currently reports of over 3mos as of time of writing, though they keep promising they will ship sooner).
 
 I also have 3D printed kits, motors, and other parts for the SO-101 LeRobot arms.
 
