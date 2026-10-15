@@ -4,7 +4,7 @@ title: Breaking the Barrier of Robotics
 slug: /references/aiclubatcu_btbor
 ---
 
-### Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.
+#### Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.
   
 <img src="/resources/img/20261013_aicu_btbor.jfif" alt="October 13th 2026" width="33%" style={{marginBottom: '24px'}} /> 
   
@@ -34,7 +34,7 @@ The application of this to modern computing (and robotics) is referenced by [Gra
 
 ## Purchasing Robots 
 
-Although you can [purchase Reachy Mini directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful available that I would be willing to sell. I have both Wirless and Lite versions. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. Cost will be $50 above what HF charges, but they are already assembled, and you won't have to wait for Hugging Face to ship (currently reports of over 3mos as of time of writing, though they keep promising they will ship sooner).
+Although you can [purchase Reachy Mini directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful available that I would be willing to sell. I have both Wirless and Lite versions. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. Cost will be $50 above what HF charges, but they are already assembled, have Reachy Eyes installed, and you won't have to wait for Hugging Face to ship (currently reports of over 3mos as of time of writing, though they keep promising they will ship sooner).
 
 I also have 3D printed kits, motors, and other parts for the SO-101 LeRobot arms.
 
