@@ -12,7 +12,7 @@ NOTE: If there's anything I missed or more that you are curious about please don
 
 # Meet Barbara
 
-What a monster we created. Although [our initial prompt](/assets/2026.10.13_barbara_initial.md) likely would have been plenty to compel the personality, the results of our refinements can be seen in [Barbara's final prompt](/assets/2026.10.13_barbara_final.md). You can reproduce the interactions by copying the prompt to Hugging Face's [realtime voice AI pipeline](https://huggingface.co/spaces/smolagents/hf-realtime-voice) by going to ⚙ Settings and adding the prompt as **instructions** with the voice "Ono_Anna."
+What a monster we created. Although <a href="/resources/assets/2026.10.13_barbara_initial.txt" target="_blank">our initial prompt</a> likely would have been plenty to compel the personality, the results of our refinements can be seen in <a href="/resources/assets/2026.10.13_barbara_final.txt" target="_blank">Barbara's Final Prompt</a>). You can reproduce the interactions by copying the prompt to Hugging Face's [realtime voice AI pipeline](https://huggingface.co/spaces/smolagents/hf-realtime-voice) by going to ⚙ Settings and adding the prompt as **instructions** with the voice "Ono_Anna."
 
 # Simulation Environments
 
