@@ -1,7 +1,7 @@
 ---
 id: aiclubatcu_btbor
 title: Breaking the Barrier of Robotics
-slug: /references/alpha-fold
+slug: /references/aiclubatcu_btbor
 ---
 
 ***Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.***
