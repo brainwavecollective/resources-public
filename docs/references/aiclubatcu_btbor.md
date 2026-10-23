@@ -2,6 +2,7 @@
 id: aiclubatcu_btbor
 title: Breaking the Barrier of Robotics
 slug: /references/aiclubatcu_btbor
+unlisted: true
 ---
 
 #### Thank you all for attending. I thought I would publish a few references to things that came up during our discussion.
