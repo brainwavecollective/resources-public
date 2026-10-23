@@ -37,7 +37,7 @@ The application of this to modern computing (and robotics) was introduced to me 
 
 ## Purchasing Robots 
 
-Although you can [purchase Reachy Mini directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful of Wirless and Lite versions available for CU students. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. Cost is $50 above what HF charges, but they are already assembled, have my [Reachy Eyes](https://brainwavecollective.ai/resources/docs/references/projects/reachy-eyes/) installed, and you won't have to wait for Hugging Face to ship.
+Although you can [purchase Reachy Mini directly from Hugging Face/Pollen Robotics](https://pollen-robotics.com/reachy-mini/), I have a handful of Wireless and Lite versions available for CU students. Feel free to [email me](mailto:daniel@brainwavecollective.ai) if you are interested. There are two options: 1) Unassembled Lite version at the same price Pollen Robotics sells them for, or 2) Assembled Lite or Wireless where the cost is $50 above what HF charges (already assembled, have my [Reachy Eyes](https://brainwavecollective.ai/resources/docs/references/projects/reachy-eyes/) installed), and in both cases you won't have to wait for Hugging Face to ship.
 
 For LeRobot SO-101 arms I have 3D printed kits, motors, and other parts available.
 
