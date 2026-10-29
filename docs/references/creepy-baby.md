@@ -1,7 +1,7 @@
 ---
 id: creepy-baby
 title: Hey Baby
-slug: /references/creepy-baby
+slug: /references/projects/creepy-baby
 ---
 
 ## That's one creepy baby
